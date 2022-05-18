@@ -71,7 +71,7 @@ class Experimento{
 			i++;
 		}
 		doTask(this.action[i]);
-		cout << Finalizando experimentos!";
+		cout << "Finalizando experimentos!";
 	}
 
 	void doTask(int taskId){
